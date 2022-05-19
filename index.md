@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Unsere Metanalyse
 
-You can use the [editor on GitHub](https://github.com/Phobetor1/cognitive.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hier kommt eine Einführung zum Thema, was alles drinnen stehen soll und so weiter
+Wir wollen hier einen sehr einfachen ÜBerblick geben, damit alle sehen was hier so abgeht
 
 ### Markdown
 

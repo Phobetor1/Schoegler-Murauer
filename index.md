@@ -10,7 +10,7 @@ DAS IST JZ ABER SCHON SCHÖN
 
 
 ### SHORT REVIEW ONLINE
-<details><summary>`Introduction`</summary>
+<details><summary> _Introduction_ </summary>
 <p>
 
  people are having a stroke in the age of. normally they get treated with...
@@ -18,7 +18,7 @@ DAS IST JZ ABER SCHON SCHÖN
 </p>
  
 </details>
-<details><summary>`topic</summary>
+<details><summary> `topic` </summary>
 <p>
 
 In this meta-analysis the authors tried to find out if people who had a stroke are having better results in rehabilitioin with the help of serious games. 

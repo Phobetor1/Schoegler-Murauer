@@ -71,6 +71,4 @@ In this meta-analysis the authors tried to find out if people who had a stroke a
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url)

@@ -80,8 +80,9 @@ So overall it make sense to use serious games for rehabilitation after a stroke.
 <p>
 
  ###REFERENCES
- 
+   Doumas, Ioannis & Everard, Gauthier & Dehem, Stéphanie & Lejeune, Thierry. (2021). Serious games for upper limb rehabilitation after stroke: a    meta-analysis. Journal of NeuroEngineering and Rehabilitation. 18. 10.1186/s12984-021-00889-1. 
 
+   da Silva Cameirão, Mónica et al. ‘Virtual Reality Based Rehabilitation Speeds up Functional Recovery of the Upper Extremities after Stroke: A Randomized Controlled Pilot Study in the Acute Phase of Stroke Using the Rehabilitation Gaming System’. 1 Jan. 2011 : 287 – 298.
 </p>
  
 </details>

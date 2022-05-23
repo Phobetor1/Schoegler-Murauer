@@ -59,7 +59,9 @@ An improvement in the rehabilitation was measured also for all components of the
 <details><summary>CONCLUSION FOR THERAPY</summary>
 <p>
 
- people are having a stroke in the age of. normally they get treated with...
+The meta-analysis is showing that there is a significant effect for UL motor function, UL activity and participation after stroke with serious games.
+The device for the serious game is not important. The crucial part is the neurorehabilitaion principles. If there are more than eight involved it is showing an effect.
+
 
 </p>
  

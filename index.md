@@ -10,6 +10,7 @@ DAS IST JZ ABER SCHON SCHÖN
 
 
 ### SHORT REVIEW ONLINE
+```markdown
 <details><summary> _Introduction_ </summary>
 <p>
 

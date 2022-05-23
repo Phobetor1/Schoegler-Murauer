@@ -6,12 +6,12 @@
 
 
 ##  META-ANALYSIS OVERVIEW
-```markdown
-`FOCUS`                                            
+```
+**FOCUS**                                           
 
-`EFFECT SIZE`
+__EFFECT SIZE__
 
-`TARGET GROUP`                                                      
+TARGET GROUP                                                      
 ```
 
 

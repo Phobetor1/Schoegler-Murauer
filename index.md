@@ -61,7 +61,7 @@ An improvement in the rehabilitation was measured also for all components of the
 
 The meta-analysis is showing that there is a significant effect for UL motor function, UL activity and participation after stroke with serious games.
 The device for the serious game is not important. The crucial part is the neurorehabilitaion principles. If there are more than eight involved it is showing an effect.
-
+So overall it make sense to use serious games for rehabilitation after a stroke. Important are that the interventions are fitting the criteria. For the near future it would make sense to do it additionally to the conventional therapy, because it would save ressources from the therapists and more people could have a chance to get the best treatment for themselves.
 
 </p>
  

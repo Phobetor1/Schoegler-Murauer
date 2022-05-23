@@ -26,16 +26,20 @@ physio therapists, stroke patients and relatives
 <details><summary>INTRODUCTION</summary>
 <p>
 
- people are having a stroke in the age of. normally they get treated with...
-
+More than one million Europens suffer from stroke every year. Around two-thirds of the survivors are having a upper limb paresis. 
+The number is still rising, so in the next years there is even a greater need of rehabilitation. A few people are able to recover completely from UL paresis after six month. For now people are getting conventional therapy and in advance self- and tele-rehabilitation. With the actual technical developement in robot assisted therapy (RAT) and virtual reality (VR) therapists get assistance. Recent meta-analysis suggest a superior effect of these new interventions. Authors have stated that the VR is specifically developed for this and are fulfilling numerous neurorehabilitation principles. These playful interventions are called serious games. 
+A serious game is by definition a game that is fulfilling educational or rehabitational goals. In the case of stroke rehabilitation these games are designed for that reason and have several motor relearning principles
+These games are developed to stimulate recovery and maintain the motivation of the patients.
+ 
 </p>
  
 </details>
 <details><summary>TOPIC</summary>
 <p>
 
-In this meta-analysis the authors tried to find out if people who had a stroke are having better results in rehabilitioin with the help of serious games. 
-
+Previous work on the efficacy of VR-based interventions were showing that serious games could have a positive impact on the patient.
+Recent theoretical research proposed consolidation of commonly acknowledged neurorehabilitation principles in serious games. 
+ 
 </p>
 </details>
 

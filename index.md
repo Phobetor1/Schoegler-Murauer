@@ -8,16 +8,15 @@ investigated the impact of serious games on upper limb rehabilitation after suff
 
 
 ##  META-ANALYSIS OVERVIEW
-```
-Focus                                           
+
+**Focus**                                           
 Effect of Serious Games on UL rehabilitation after stroke
 
-Effect Size
+**Effect Size**
 moderate effect on UL motor function
 
-Target Group
+**Target Group**
 physio therapists, stroke patients and relatives
-```
 
 
 ## SHORT REVIEW ONLINE

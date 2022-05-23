@@ -38,7 +38,8 @@ These games are developed to stimulate recovery and maintain the motivation of t
 <p>
 
 Previous work on the efficacy of VR-based interventions were showing that serious games could have a positive impact on the patient.
-Recent theoretical research proposed consolidation of commonly acknowledged neurorehabilitation principles in serious games. 
+Recent theoretical research proposed consolidation of commonly acknowledged neurorehabilitation principles in serious games. The question is if the specific principles are correlating with the efficacy. So the authors decided to address this meta-analysis to this purpose and were following the PICOS form: in adults after stroke (P), do serious games, implemented on various technological systems (I), show better efficacy than conventional treatment (C), to rehabilitate UL function and activity, and patient's participation (O).
+So they were searching for relevant literature. They were looking for ten criterias to measure. For example: amount of practice, task-specific practice, feedback and so on.
  
 </p>
 </details>
@@ -46,7 +47,10 @@ Recent theoretical research proposed consolidation of commonly acknowledged neur
 <details><summary>RESULTS</summary>
 <p>
 
- people are having a stroke in the age of. normally they get treated with...
+Rehabilitation using serious games led to significantly better improvements compared to conventional treatments.
+They highlighted that studies that were fulfilling eight or more neurorehabilitation principles had significant results.
+Serious games were effective in improving UL mototr function in both subacute and chronic stage after stroke, but no difference between these groups.
+An improvement in the rehabilitation was measured also for all components of the ICF-WHO.
 
 </p>
  

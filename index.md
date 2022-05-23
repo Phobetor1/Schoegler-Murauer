@@ -3,18 +3,20 @@
 ![Image](https://cdn.pixabay.com/photo/2015/10/27/16/07/canvas-1009232_1280.jpg)
 
 Serious Games are finding their way into the rehabilitions more and more. Easy to use and supportive for the health care workers. 
-The meta-analysis "Serious Games for upper limb rehabilitation after stroke" from Doumas, Everard, Dehem & Lejeune (2021) 
-investigated the impact of serious games on rehabilitation after suffering from a stroke. 
- + einführender Text
+The meta-analysis "Serious Games for upper limb rehabilitation after stroke" by Doumas, Everard, Dehem & Lejeune (2021) 
+investigated the impact of serious games on upper limb rehabilitation after suffering from a stroke. 
 
 
 ##  META-ANALYSIS OVERVIEW
 ```
 Focus                                           
+Effect of Serious Games on UL rehabilitation after stroke
 
 Effect Size
+moderate effect on UL motor function
 
-Target Group                                                      
+Target Group
+physio therapists, stroke patients and relatives
 ```
 
 

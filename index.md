@@ -1,6 +1,6 @@
 # SERIOUS GAMES FOR UPPER LIMB REHABILITATION AFTER STROKE
 
-FOTO + einführender Text
+![Image]([src](https://cdn.pixabay.com/photo/2018/02/24/05/51/heart-attack-3177360_1280.jpg)) + einführender Text
 
 
 ##  META-ANALYSIS OVERVIEW

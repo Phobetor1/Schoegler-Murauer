@@ -7,11 +7,11 @@
 
 ##  META-ANALYSIS OVERVIEW
 ```
-**FOCUS**                                           
+Focus                                           
 
-__EFFECT SIZE__
+Effect Size
 
-TARGET GROUP                                                      
+Target Group                                                      
 ```
 
 

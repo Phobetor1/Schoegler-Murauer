@@ -1,11 +1,17 @@
 # SERIOUS GAMES FOR UPPER LIMB REHABILITATION AFTER STROKE
 
-![Image](https://cdn.pixabay.com/photo/2018/02/24/05/51/heart-attack-3177360_1280.jpg) + einführender Text
+![Image](https://cdn.pixabay.com/photo/2015/10/27/16/07/canvas-1009232_1280.jpg)
+
+"(https://cdn.pixabay.com/photo/2018/02/24/05/51/heart-attack-3177360_1280.jpg) + einführender Text"
 
 
 ##  META-ANALYSIS OVERVIEW
 ```
-DAS IST JZ ABER SCHON SCHÖN
+FOCUS                                            
+
+EFFECT SIZE
+
+TARGET GROUP                                                      
 ```
 
 

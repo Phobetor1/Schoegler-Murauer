@@ -2,16 +2,16 @@
 
 ![Image](https://cdn.pixabay.com/photo/2015/10/27/16/07/canvas-1009232_1280.jpg)
 
-"(https://cdn.pixabay.com/photo/2018/02/24/05/51/heart-attack-3177360_1280.jpg) + einführender Text"
+ + einführender Text
 
 
 ##  META-ANALYSIS OVERVIEW
 ```
-FOCUS                                            
+`FOCUS`                                            
 
-EFFECT SIZE
+`EFFECT SIZE`
 
-TARGET GROUP                                                      
+TARGET GROUP`                                                      
 ```
 
 
@@ -62,7 +62,8 @@ In this meta-analysis the authors tried to find out if people who had a stroke a
 <details><summary>LINKS AND REFERENCES</summary>
 <p>
 
- people are having a stroke in the age of. normally they get treated with...
+ ###REFERENCES
+ 
 
 </p>
  

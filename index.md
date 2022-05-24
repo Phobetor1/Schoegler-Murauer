@@ -120,7 +120,9 @@ VIRTUAL REALITY BASE REHABILITATION SPEEDS UP FUNCTIONAL RECOVERY OF THE UPPER E
 
    da Silva Cameirão, Mónica et al. ‘Virtual Reality Based Rehabilitation Speeds up Functional Recovery of the Upper Extremities after Stroke: A Randomized Controlled Pilot Study in the Acute Phase of Stroke Using the Rehabilitation Gaming System’. 1 Jan. 2011 : 287 – 298.
 
-a video of the RGS [Link](https://www.youtube.com/watch?v=vJXEI9yQyEQ)
+a video of the RGS 
+ 
+[Link](https://www.youtube.com/watch?v=vJXEI9yQyEQ)
  
 </p>
  

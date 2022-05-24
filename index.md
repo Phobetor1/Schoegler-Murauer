@@ -87,8 +87,10 @@ the near future it would make sense to do it additionally to the conventional th
 <details><summary>EXAMPLE STUDIES</summary>
 <p>
 
- **study 1**
+**study 1**
+ 
 VIRTUAL REALITY BASE REHABILITATION SPEEDS UP FUNCTIONAL RECOVERY OF THE UPPER EXTREMITIES AFTER STROKE
+
  
  This study used a VR-based rehabilitation for the upper limb system in the acute phase after a stroke. 
  The Rehabilitation Gaming System (RGS) was their main tool. As we already know from the meta-analysis the needs for stroke rehabilitation
@@ -112,25 +114,16 @@ VIRTUAL REALITY BASE REHABILITATION SPEEDS UP FUNCTIONAL RECOVERY OF THE UPPER E
 
 <details><summary>LINKS AND REFERENCES</summary>
 <p>
-
- REFERENCES
- 
- Doumas, Ioannis & Everard, Gauthier & Dehem, Stéphanie & Lejeune, Thierry. (2021). 
- Serious games for upper limb rehabilitation after stroke: a    meta-analysis. Journal of NeuroEngineering and Rehabilitation. 
- 18. 10.1186/s12984-021-00889-1. 
+``` 
+Doumas, Ioannis & Everard, Gauthier & Dehem, Stéphanie & Lejeune, Thierry. (2021). 
+Serious games for upper limb rehabilitation after stroke: a    meta-analysis. Journal of NeuroEngineering and Rehabilitation. 
+18. 10.1186/s12984-021-00889-1. 
 
 
- da Silva Cameirão, Mónica et al. ‘Virtual Reality Based Rehabilitation Speeds up Functional Recovery of the Upper Extremities after Stroke: 
- A Randomized Controlled Pilot Study in the Acute Phase of Stroke Using the Rehabilitation Gaming System’. 1 Jan. 2011 : 287 – 298.
+da Silva Cameirão, Mónica et al. ‘Virtual Reality Based Rehabilitation Speeds up Functional Recovery of the Upper Extremities after Stroke: 
+A Randomized Controlled Pilot Study in the Acute Phase of Stroke Using the Rehabilitation Gaming System’. 1 Jan. 2011 : 287 – 298.
+```
 <p>
-<p>
-
-a video of the RGS 
- 
-[a video of RGS](https://www.youtube.com/watch?v=vJXEI9yQyEQ)
- 
-</p>
- 
 </details>
 
 

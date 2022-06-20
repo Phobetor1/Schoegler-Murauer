@@ -2,9 +2,8 @@
 
 ![Image](https://cdn.pixabay.com/photo/2015/10/27/16/07/canvas-1009232_1280.jpg)
 
-Serious Games are more and more incorporated in upper limb rehabilitation practices. They are easy to use and a great method to support health care workers, physical therapists and occupational therapists. 
-The meta-analysis "Serious Games for upper limb rehabilitation after stroke" by Doumas, Everard, Dehem & Lejeune (2021) 
-investigated the impact of serious games on upper limb rehabilitation after suffering from a stroke. 
+Serious Games are increasingly implemented in rehabilitation practices. They are easy to use and a great method to support health care workers, physical therapists, and occupational therapists. 
+The meta-analysis "Serious Games for upper limb rehabilitation after stroke" by Doumas, Everard, Dehem & Lejeune (2021) investigated the impact of serious games specifically on upper limb rehabilitation after suffering from a stroke.
 
 
 ##  META-ANALYSIS OVERVIEW

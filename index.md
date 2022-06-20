@@ -25,17 +25,15 @@ physio therapists, stroke patients and relatives
 <details><summary>INTRODUCTION</summary>
 <p>
 
-More than one million Europeans suffer from stroke every year. Around two-thirds of the survivors experience upper limb paresis. 
-The number is still rising, so in the next years will be an even greater need of rehabilitation. 
-A few people are able to recover completely from UL paresis after six month. 
-For now patients receive conventional physical therapy and in addition self- and tele-rehabilitation. 
-With the actual technical developement in robot assisted therapy (RAT) and virtual reality (VR) therapists get assistance. 
-Recent meta-analysis suggest a superior effect of these new interventions. 
-Authors have stated that VR-based therapy which is specifically developed for this and are fulfilling numerous neurorehabilitation principles. 
-These playful interventions are called serious games. 
-A serious game is by definition a game that is fulfilling educational or rehabitational goals. 
-In the case of stroke rehabilitation these games are designed for that specific reason and follow several motor relearning principles.
-These games are developed to stimulate recovery and maintain the motivation of the patients.
+Over one million Europeans suffer from a stroke every year. Around two-thirds of the survivors experience upper limb paresis consequently.
+In the future, the numbers are expected to continue to rise, resulting in an even greater need of rehabilitation. Only a small number of patients are able to recover completely from UL paresis after a period of six months, while the majority continue to face limited function of their upper extremities.
+Currently, patients receive conventional physical therapy which is sometimes complemented by self- and tele-rehabilitation. 
+However, by means of the latest technical developments, robot assisted therapy (RAT) and virtual reality (VR) therapy are starting to be implemented in upper limb rehabilitation.
+This development is due to recent meta-analyses suggesting a superior effect of these new interventions compared to conventional therapy.
+These, often playful, interventions are also known as serious games.
+A serious game is, by definition, a game that fulfills either educational or rehabilitation goals. 
+Concerning post-stroke rehabilitation these games are designed for that specific reason and follow several neurorehabilitation principles in order to allow the best possible recovery of upper limb function while also maintaining the patient’s motivation.
+
  
 </p>
  
@@ -43,14 +41,11 @@ These games are developed to stimulate recovery and maintain the motivation of t
 <details><summary>TOPIC</summary>
 <p>
 
-Previous work on the efficacy of VR-based interventions were showing that serious games could have a positive impact on the patient.
-Recent theoretical research proposed consolidation of commonly acknowledged neurorehabilitation principles in serious games.
-The question is if the specific principles are correlating with the efficacy. 
-So the authors decided to address this meta-analysis to this purpose and were following the PICOS form: in adults after stroke (P), 
-do serious games, implemented on various technological systems (I), show better efficacy than conventional treatment (C), 
-to rehabilitate UL function and activity, and patient's participation (O).
-So they were searching for relevant literature. They were looking for ten criterias to measure. 
- For example: amount of practice, task-specific practice, feedback and so on.
+Previous work studying the efficacy of VR-based interventions has shown that serious games could have a positive impact on the patient.
+Furthermore, recent theoretical research suggests a consolidation of commonly acknowledged neurorehabilitation principles in serious games.
+However, it remains unclear whether these specific principles correlate with the efficacy of the intervention.
+Therefore, Doumas and colleagues decided to further investigate the general efficacy of serious games on UL rehabilitation specifically, while also checking whether adherence to the neurorehabilitation principles is linked to better efficacy. They decided to follow the PICOS form, asking following questions:  in adults after stroke (P), do serious games, implemented on various technological systems (I), show better efficacy than conventional treatment (C), to rehabilitate UL function and activity, and patient's participation (O).
+
  
 </p>
 </details>
@@ -58,11 +53,10 @@ So they were searching for relevant literature. They were looking for ten criter
 <details><summary>RESULTS</summary>
 <p>
 
-Rehabilitation using serious games led to significantly better improvements compared to conventional treatments.
-They highlighted that studies that were fulfilling eight or more neurorehabilitation principles had significant results.
-Serious games were effective in improving UL mototr function in both subacute and chronic stage after stroke, 
- but no difference between these groups.
-An improvement in the rehabilitation was measured also for all components of the ICF-WHO.
+The results clearly show that rehabilitation methods using serious games are more effective in improving UL motor function, activity and participation than conventional therapy, in both the subacute and chronic stage after stroke.
+The authors highlight, that especially interventions following and fulfilling eight or more neurorehabilitation principles led to overall better improvement. 
+Concluding it can be said that patients highly benefit from serious games in upper limb rehabilitation, especially when these interventions are specifically constructed following neurorehabilitation principles. 
+
 
 </p>
  

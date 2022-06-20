@@ -65,13 +65,10 @@ Concluding it can be said that patients highly benefit from serious games in upp
 <details><summary>CONCLUSION FOR THERAPY</summary>
 <p>
 
-The meta-analysis is showing that there is a significant effect for UL motor function, 
-UL activity and participation after stroke with serious games.
-The device for the serious game is not important. The crucial part is the neurorehabilitaion principles. 
-If there are more than eight involved it is showing an effect.
-So overall it make sense to use serious games for rehabilitation after a stroke. Important are that the interventions are fitting the criteria.For 
-the near future it would make sense to do it additionally to the conventional therapy, because it would save ressources from the therapists and 
-more people could have a chance to get the best treatment for themselves.
+As already mentioned, there is a significant effect on UL motor function, 
+UL activity and participation after stroke when following an intervention in the form of serious games. The device used for the serious game is not relevant –the adherence to the neurorehabilitation principles is however crucial. 
+Considering the results of this meta-analysis, physical therapists should start implementing serious games in UL rehabilitation in order to offer their patients best possible recovery.
+
 
 </p>
  
